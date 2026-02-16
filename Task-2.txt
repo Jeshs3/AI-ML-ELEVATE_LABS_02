@@ -1,0 +1,8 @@
+1. The purpose of Exploratory Data Analysis (EDA) is to understand the data by summarizing its main features and spotting patterns, trends, or anomalies. It helps us decide how to clean, transform, or model the data effectively.
+2. Boxplots show the spread of the data, the median, and any outliers, so we can quickly see the distribution and unusual values.
+3. Correlation measures how two variables move together, and it’s useful to see if one variable can predict or affect another.
+4. To detect the skewness in data, I utilized the skew function.
+5. Multicollinearity happens when two or more features in a dataset are highly related, which can make it hard for a model to figure out their individual effects.
+6. I used Python libraries including pandas, numpy, matplotlib, and seaborn.
+7. EDA helped me to understand the survival factors in the Titanic dataset and learned that age, sex, and pclass have a very important influence in the survival rate.
+8. Visualization helps us understand the data, spot patterns, and see the model’s results clearly, making it easier to make decisions.
